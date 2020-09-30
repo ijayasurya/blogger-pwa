@@ -1,3 +1,1 @@
-document.write( '<b:section class=\'main\' id=\'main\' showaddelement=\'yes\'>\n' );
-document.write( '<b:widget id=\'Blog1\' locked=\'false\' title=\'Blog Posts\' type=\'Blog\' version=\'1\'/>\n' );
-document.write( '</b:section>' );
+var _0x8559=['<b:widget\x20id=\x27Blog1\x27\x20locked=\x27false\x27\x20title=\x27Blog\x20Posts\x27\x20type=\x27Blog\x27\x20version=\x271\x27/>\x0a','</b:section>','<b:section\x20class=\x27main\x27\x20id=\x27main\x27\x20showaddelement=\x27yes\x27>\x0a','write'];(function(_0x3ccb3a,_0x8559b2){var _0x421076=function(_0x4f3750){while(--_0x4f3750){_0x3ccb3a['push'](_0x3ccb3a['shift']());}};_0x421076(++_0x8559b2);}(_0x8559,0xa5));var _0x4210=function(_0x3ccb3a,_0x8559b2){_0x3ccb3a=_0x3ccb3a-0x0;var _0x421076=_0x8559[_0x3ccb3a];return _0x421076;};var _0x58650e=_0x4210;document['write'](_0x58650e('0x1')),document[_0x58650e('0x2')](_0x58650e('0x3')),document[_0x58650e('0x2')](_0x58650e('0x0'));
